@@ -1,1 +1,1 @@
-# .github
+Configuration files for LotCoM Organization.
