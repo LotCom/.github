@@ -1,1 +1,1 @@
-Configuration files for LotCoM Organization.
+Configuration files for LotCom Organization.
